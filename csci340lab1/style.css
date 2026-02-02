@@ -30,7 +30,7 @@ body {
   
   .jumbotron {
     display: flex;
-    align-items: center;
+    align-items: left;
     background-image: url('https://content.codecademy.com/projects/make-a-website/lesson-4/jumbotron.jpg');
     background-size: cover;
     color: #ffffff;
