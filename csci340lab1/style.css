@@ -33,10 +33,9 @@ header p {
   background-size: cover;
   height: 250px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  color: #000000;
 }
 
-.jumbotron h3 {
+.jumbotron .container h3 {
   margin: 0 0 20px;
   color: #000000;
 }
@@ -47,12 +46,12 @@ section .row img {
 }
 
 .container .row .col-sm-3 .citation {
-  font-size: 5rem;
+  font-size: 50rem;
   text-align: center;
 }
 
 .container .row .col-sm-6 .citation {
-  font-size: 5rem;
+  font-size: 50rem;
   text-align: center;
 }
 
