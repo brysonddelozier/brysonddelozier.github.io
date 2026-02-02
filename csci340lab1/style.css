@@ -33,6 +33,7 @@ header p {
   background-size: cover;
   height: 250px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  color: #000000;
 }
 
 .jumbotron h3 {
