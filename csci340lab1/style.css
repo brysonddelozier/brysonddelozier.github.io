@@ -12,6 +12,7 @@ body {
   footer .row {
     display: flex;
     align-items: center;
+    background-color: aqua;
   }
   
   header h1 {
