@@ -89,3 +89,7 @@ body {
     width: 32px;
     height: 32px;
   }
+
+  container {
+    background-color: blue;
+  }
