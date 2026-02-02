@@ -1,31 +1,37 @@
 body {
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
+  background-color: #ffffff;
 }
 
 header {
   padding: 20px 0;
+  background-color: #ffffff;
 }
 
 header .row,
 footer .row {
   display: flex;
   align-items: center;
+  background-color: #ffffff;
 }
 
 header h1 {
   font-weight: 700;
   margin: 0;
+  background-color: #ffffff;
 }
 
 header nav {
   display: flex;
   justify-content: flex-end;
+  background-color: #ffffff;
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
+  background-color: #ffffff;
 }
 
 .jumbotron {
@@ -33,36 +39,44 @@ header p {
   background-size: cover;
   height: 250px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  background-color: lightblue;
 }
 
 .jumbotron .container h3 {
   margin: 0 0 20px;
   color: #000000;
+  background-color: lightblue;
 }
 
 section .row img {
   margin: 0 0 30px;
   width: 100%;
+  background-color: #ffffff;
 }
 
 .container .row .col-sm-3 .citation {
   font-size: 8px;
+  background-color: #ffffff;
 }
 
 .container .row .col-sm-3 h5 {
   font-weight: 700;
+  background-color: #ffffff;
 }
 
 .container .row .col-sm-6 .citation {
   font-size: 8px;
+  background-color: #ffffff;
 }
 
 .container .row .col-sm-6 h5 {
   font-weight: 700;
+  background-color: #ffffff;
 }
 
 .col-md-6 {
   margin: 0 0 30px;
+  background-color: #ffffff;
 }
 
 .btn.btn-primary {
