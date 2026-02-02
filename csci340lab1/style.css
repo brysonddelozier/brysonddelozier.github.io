@@ -1,78 +1,78 @@
 body {
-    font-family: 'Quicksand', sans-serif;
-    font-weight: 300;
-  }
-  
-  header {
-    padding: 20px 0;
-  }
-  
-  header .row,
-  footer .row {
-    display: flex;
-    align-items: center;
-  }
-  
-  header h1 {
-    font-weight: 700;
-    margin: 0;
-  }
-  
-  header nav {
-    display: flex;
-    justify-content: flex-end;
-  }
-  
-  header p {
-    padding: 0 20px;
-    margin: 0;
-  }
-  
-  .jumbotron {
-    display: flex;
-    background-size: cover;
-    height: 500px;
-    text-shadow: 0.25px 0.25px 0.25px #000000;
-  }
-  
-  .jumbotron h3 {
-    margin: 0 0 20px;
-    color: #fff;
-  }
-  
-  section .row img {
-    margin: 0 0 30px;
-    width: 100%;
-  }
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+}
 
-  .container .row .col-sm-3 .citation {
-    font-size: 0.1;
-    text-align: center;
-  }
+header {
+  padding: 20px 0;
+}
 
-  .container .row .col-sm-6 .citation {
-    font-size: 0.1;
-    text-align: center;
-  }
-  
-  .col-md-6 {
-    margin: 0 0 30px;
-  }
-  
-  .btn.btn-primary {
-    border-radius: 2px;
-    border: 0px;
-    color: #fbd1d5;
-    text-shadow: none;
-    background-color: #ffffff;
-  }
-  
-  .btn.btn-primary:hover {
-    background-color: #fbd1d5;
-  }
-  
-  .btn-secondary {
-    background-color: #E8DFE0;
-    color: #ffffff;
-    margin: 0 0 30px;
-  }
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+.jumbotron {
+  display: flex;
+  background-size: cover;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.container .row .col-sm-3 .citation {
+  font-size: 0.1rem;
+  text-align: center;
+}
+
+.container .row .col-sm-6 .citation {
+  font-size: 0.1rem;
+  text-align: center;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
