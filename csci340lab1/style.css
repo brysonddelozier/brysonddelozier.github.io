@@ -5,32 +5,27 @@ body {
 
 header {
   padding: 20px 0;
-  background-color: lightblue;
 }
 
 header .row,
 footer .row {
   display: flex;
   align-items: center;
-  background-color: lightblue;
 }
 
 header h1 {
   font-weight: 700;
   margin: 0;
-  background-color: lightblue;
 }
 
 header nav {
   display: flex;
   justify-content: flex-end;
-  background-color: lightblue;
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
-  background-color: lightblue;
 }
 
 .jumbotron {
@@ -73,17 +68,17 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  color: lightblue;
   text-shadow: none;
   background-color: #ffffff;
 }
 
 .btn.btn-primary:hover {
-  background-color: #fbd1d5;
+  background-color: lightblue;
 }
 
 .btn-secondary {
-  background-color: #E8DFE0;
+  background-color: lightblue;
   color: #ffffff;
   margin: 0 0 30px;
 }
