@@ -44,6 +44,16 @@ body {
     margin: 0 0 30px;
     width: 100%;
   }
+
+  .col-sm-3 .citation {
+    font-size: 0.1;
+    text-align: center;
+  }
+
+  .col-sm-6 .citation {
+    font-size: 0.1;
+    text-align: center;
+  }
   
   .col-md-6 {
     margin: 0 0 30px;
@@ -65,10 +75,4 @@ body {
     background-color: #E8DFE0;
     color: #ffffff;
     margin: 0 0 30px;
-  }
-
-  .citation {
-    font-size: small;
-    color: blue;
-    text-align: center;
   }
