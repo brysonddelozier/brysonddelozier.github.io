@@ -67,8 +67,8 @@ body {
     margin: 0 0 30px;
   }
 
-  figcaption {
+  .citation {
     font-size: small;
-    color: black;
+    color: blue;
     text-align: center;
   }
