@@ -45,12 +45,12 @@ body {
     width: 100%;
   }
 
-  .col-sm-3 .citation {
+  .container .row .col-sm-3 .citation {
     font-size: 0.1;
     text-align: center;
   }
 
-  .col-sm-6 .citation {
+  .container .row .col-sm-6 .citation {
     font-size: 0.1;
     text-align: center;
   }
