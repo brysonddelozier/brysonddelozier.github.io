@@ -1,7 +1,6 @@
 body {
     font-family: 'Quicksand', sans-serif;
     font-weight: 300;
-    background-color: lightblue;
   }
   
   header {
@@ -12,7 +11,6 @@ body {
   footer .row {
     display: flex;
     align-items: center;
-    background-color: aqua;
   }
   
   header h1 {
@@ -35,7 +33,6 @@ body {
     background-size: cover;
     height: 500px;
     text-shadow: 0.25px 0.25px 0.25px #000000;
-    background-color: aqua;
   }
   
   .jumbotron h3 {
@@ -61,7 +58,6 @@ body {
   }
   
   .btn.btn-primary:hover {
-    color: #00d9ffbb;
     background-color: #fbd1d5;
   }
   
@@ -88,8 +84,4 @@ body {
   footer li img {
     width: 32px;
     height: 32px;
-  }
-
-  container {
-    background-color: blue;
   }
