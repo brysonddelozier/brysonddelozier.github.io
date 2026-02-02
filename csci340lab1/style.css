@@ -1,37 +1,37 @@
 body {
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 header {
   padding: 20px 0;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 header .row,
 footer .row {
   display: flex;
   align-items: center;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 header h1 {
   font-weight: 700;
   margin: 0;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 header nav {
   display: flex;
   justify-content: flex-end;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .jumbotron {
@@ -51,32 +51,32 @@ header p {
 section .row img {
   margin: 0 0 30px;
   width: 100%;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .container .row .col-sm-3 .citation {
   font-size: 8px;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .container .row .col-sm-3 h5 {
   font-weight: 700;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .container .row .col-sm-6 .citation {
   font-size: 8px;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .container .row .col-sm-6 h5 {
   font-weight: 700;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .col-md-6 {
   margin: 0 0 30px;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .btn.btn-primary {
@@ -84,7 +84,7 @@ section .row img {
   border: 0px;
   color: lightblue;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: lightgoldenrodyellow;
 }
 
 .btn.btn-primary:hover {
@@ -93,6 +93,6 @@ section .row img {
 
 .btn-secondary {
   background-color: lightblue;
-  color: #ffffff;
+  color: lightgoldenrodyellow;
   margin: 0 0 30px;
 }
